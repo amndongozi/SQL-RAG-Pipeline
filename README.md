@@ -1,15 +1,21 @@
-# SQL Chatbot with LangChain and RAG
+# SQL Tutor with LangChain and RAG
 
-This project is a personal learning endeavor to deepen my understanding of SQL while exploring powerful tools like LangChain and Retrieval-Augmented Generation (RAG). My goal was to build a contextual chatbot that acts as a personal study assistant, answering questions about SQL notes from my Big Data course at Emory. The application is designed to be modular, efficient, and leverages modern package management and containerization practices.
+This project is a personal learning endeavor to deepen my understanding of SQL while exploring powerful tools like LangChain and Retrieval-Augmented Generation (RAG). 
+My goal was to build a contextual chatbot that acts as a personal study assistant, answering questions about SQL notes from my Big Data course at Emory. 
+The application is designed to be modular, efficient, and leverages modern package management and containerization practices.
 
 ### Key Technologies
 
-* **LangChain:** For orchestrating the LLM and its interactions with external data.
+* **LangChain:** A python framework used for orchestrating the LLM and its interactions with external data using a ConversationalRetrievalChain powered by the gpt-3.5-turbo model.
 * **Pinecone:** A vector database for efficient storage and retrieval of document embeddings.
 * **RAG (Retrieval-Augmented Generation):** The core technique that allows the chatbot to retrieve information from my SQL notes before generating a response.
 * **Docker:** For creating a consistent and isolated environment for the entire application, including all dependencies.
 * **uv:** A fast and modern Python package installer.
 * **Streamlit:** For creating a simple, user-friendly interface for the chatbot.
+
+### Live Demo
+
+
 
 ### How to Run the Project
 
@@ -19,8 +25,8 @@ This project is fully containerized with Docker, ensuring a consistent and isola
 
 1.  Clone the repository and navigate to the project directory.
     ```bash
-    git clone [your_repo_url]
-    cd [your_project_directory]
+    git clone [https://github.com/amndongozi/SQL-RAG-Pipeline.git]
+    cd SQL-RAG-Pipeline
     ```
 
 2.  Ensure you have Docker installed and running on your system.
