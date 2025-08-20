@@ -15,7 +15,7 @@ The application is designed to be modular, efficient, and leverages modern packa
 
 ### Live Demo
 
-![Chatbot Demo](images/LiveDemo-SQLTutor-ezgif.com-video-cutter)
+<video src="images/LiveDemo-SQLTutor-ezgif.com-video-cutter.mp4" controls autoplay loop muted></video>
 
 ### How to Run the Project
 
