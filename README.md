@@ -15,7 +15,7 @@ The application is designed to be modular, efficient, and leverages modern packa
 
 ### Live Demo
 
-<video src="images/LiveDemo-SQLTutor-ezgif.com-video-cutter.mp4" controls autoplay loop muted></video>
+<video src="https://raw.githubusercontent.com/amndongozi/SQL-RAG-Pipeline/main/images/LiveDemo-SQLTutor-ezgif.com-video-cutter.mp4" controls autoplay loop muted></video>
 
 ### How to Run the Project
 
