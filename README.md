@@ -16,7 +16,7 @@ The application is designed to be modular, efficient, and leverages modern packa
 ### Live Demo
 
 View the App Demo! 
-<video src="https://raw.githubusercontent.com/amndongozi/SQL-RAG-Pipeline/main/images/SQL Tutor Demo.gif" controls autoplay loop muted></video>
+![SQL Chatbot Demo](images/SQL%20Tutor%20Demo.gif)
 
 ### How to Run the Project
 
