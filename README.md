@@ -13,11 +13,6 @@ The application is designed to be modular, efficient, and leverages modern packa
 * **uv:** A fast and modern Python package installer.
 * **Streamlit:** For creating a simple, user-friendly interface for the chatbot.
 
-### Live Demo
-
-View the App Demo! 
-![SQL Chatbot Demo](images/SQL%20Tutor%20Demo.gif)
-
 ### How to Run the Project
 
 This project is fully containerized with Docker, ensuring a consistent and isolated environment for all dependencies and tools.
@@ -51,3 +46,7 @@ This project is fully containerized with Docker, ensuring a consistent and isola
     streamlit run Chatbot.py
     ```
 3.  Once the notebook setup is complete and the Streamlit app is running, access the chatbot application from your web browser by navigating to `http://localhost:8501`.
+
+### Live Demo
+ 
+![SQL Chatbot Demo](images/SQL%20Tutor%20Demo.gif)
