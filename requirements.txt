@@ -1,0 +1,12 @@
+langchain==0.1.20
+langchain-core==0.1.52
+langchain-community==0.0.38
+langchain-openai==0.0.8
+langchain-pinecone==0.1.1
+pinecone-client==3.2.2
+openai
+python-dotenv==1.0.0
+jupyterlab
+streamlit
+
+

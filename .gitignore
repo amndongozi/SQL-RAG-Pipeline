@@ -1,0 +1,7 @@
+﻿# .gitignore
+.env
+.venv/
+.ipynb_checkpoints/
+data/
+*.pdf
+*.lock
