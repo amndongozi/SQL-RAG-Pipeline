@@ -1,7 +1,7 @@
 [project]
 name = "pythonlangchain"
 version = "0.1.0"
-description = "A LangChain chatbot for SQL notes from a Big Data course.""
+description = "A LangChain chatbot for SQL notes from a Big Data course."
 requires-python = ">=3.12"
 dependencies = [
     "notebook>=7.4.5",
