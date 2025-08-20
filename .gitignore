@@ -4,4 +4,7 @@
 .ipynb_checkpoints/
 *.lock
 *.toml
+.idea/
+LangchainApp.ipynb
+
 
