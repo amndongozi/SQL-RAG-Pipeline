@@ -1,10 +1,10 @@
 # SQL Tutor with LangChain and RAG
 
-This project is a personal learning endeavor to deepen my understanding of SQL while exploring powerful tools like LangChain and Retrieval-Augmented Generation (RAG). 
-My goal was to build a contextual chatbot that acts as a personal study assistant, answering questions about SQL notes from my Big Data course at Emory. 
+I wanted to create a personal learning opportunity to deepen my understanding while exploring powerful tools like LangChain and Retrieval-Augmented Generation (RAG). 
+The goal of this project was to build a contextual chatbot that acts as a personal study assistant, answering questions about SQL notes from my Big Data course at Emory. 
 The application is designed to be modular, efficient, and leverages modern package management and containerization practices.
 
-### Key Technologies
+### Tech Stack
 
 * **LangChain:** A python framework used for orchestrating the LLM and its interactions with external data using a ConversationalRetrievalChain powered by the gpt-3.5-turbo model.
 * **Pinecone:** A vector database for efficient storage and retrieval of document embeddings.
@@ -15,7 +15,7 @@ The application is designed to be modular, efficient, and leverages modern packa
 
 ### How to Run the Project
 
-This project is fully containerized with Docker, ensuring a consistent and isolated environment for all dependencies and tools.
+This project is fully containerized with Docker which creates a consistent and smooth environment for the project to run anywhere on any device.
 
 #### **Step 1: Set up the Environment**
 
